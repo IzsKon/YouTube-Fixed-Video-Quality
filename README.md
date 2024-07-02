@@ -9,3 +9,7 @@ If the default quality exceeds the video's highest resolution, the highest avail
 ## Install
 1. Install [Tampermonkey](https://www.tampermonkey.net/index.php) on the browser.
 2. Install this [script](https://greasyfork.org/scripts/467501) from Greasy Fork.
+
+## Known Issues
+"1080p Premium" is currently not supported.
+Quality is not selected if you enter a live stream from the waiting screen.
