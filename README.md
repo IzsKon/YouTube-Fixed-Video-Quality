@@ -12,4 +12,3 @@ If the default quality exceeds the video's highest resolution, the highest avail
 
 ## Known Issues
 "1080p Premium" is currently not supported.
-Quality is not selected if you enter a live stream from the waiting screen.
